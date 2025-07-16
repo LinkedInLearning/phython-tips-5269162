@@ -1,34 +1,27 @@
-# [DE-Kursname hier eintragen]
+# Python Praxistipps
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Python Praxistipps`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
 
-[COURSEDESCRIPTION]
+Die praktische Programmiersprache Python kommt in den unterschiedlichsten Bereichen zur Anwendung.  Mit seiner Tipps- und Tricks-Sammlung möchte Ihnen Ralph Steyer helfen, die Hürden im Programmier:innen-Alltag zu überwinden und wird auch bei erfahrenen Anwender:innen bestimmt für den ein oder anderen Aha-Effekt sorgen.<br><br>
+Erfahren Sie, wie Sie SPS-Systeme mit Flask und Sockets integrieren, MQTT-Protokolle in Python verwenden und per SSH kommunizieren. Erstellen Sie Backups, kreieren einen Chatbot oder überwachen Sie Systemressourcen. Die Tipps behandeln auch Bildbearbeitung, Internet of Things, MP3-Normalisierung, Web Scraping, Wikipedia-Bots, Nutzung mehrerer virtueller Umgebungen und vieles mehr.
+
 
 ## Anleitung
 
-Dieses Repository hat Branches für jedes Video im Kurs. Verwenden Sie das Ausklappmenü "Branch: ..." in GitHub um zwischen den unterschiedlichen Branches hin und her zu wechseln bzw. um bei einem spezifischen Status einzusteigen. Oder Sie fügen `/tree/BRANCH_NAME` der URL hinzu um direkt in den gewünschten Branch zu wechseln.
-
-
-## Installation
-
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+Alle Codebeispiele finden Sie in Unterordner passend zu den Kapiteln. Sie können dieses Repository auch als GitHub Codespace öffnen.
 
 ### Autor
 
-**[Name hier eintragen]**
+Ralph Steyer
 
-_[Berufsbezeichnung hier eintragen]_
+_Diplom Mathematiker_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ralph-steyer) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/python-praxistipps-jede-woche-neu
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQF0HwTLUCj2aQ/learning-public-crop_675_1200/B4EZgNpwOWHoAg-/0/1752575706347?e=2147483647&v=beta&t=lcuZOJBCNrJRADr1JfBJwGBbhwr2Ezned41_s3WxlCE
 
-[1]: # (End of DE-Instruction ###############################################################################################)
